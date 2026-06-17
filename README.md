@@ -68,3 +68,7 @@ If you find this repository helpful, consider giving it a star ⭐ — it motiva
 
 Currently focused on learning and research. More contact details may be added in the future
 #### Thanks...
+
+## Link:
+- Hackeonr => [__Hackerone__](https://hackerone.com/mrscript-ho?type=user)
+- GITHUB => [__GIT__](https://github.com/Mrscript-up/)
