@@ -72,3 +72,4 @@ Currently focused on learning and research. More contact details may be added in
 ## Link:
 - Hackeonr => [__Hackerone__](https://hackerone.com/mrscript-ho?type=user)
 - GITHUB => [__GIT__](https://github.com/Mrscript-up/)
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/> </p>
