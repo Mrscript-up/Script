@@ -61,4 +61,4 @@ Output format — exactly this structure:
 
 Now analyze the following data:
 
-[paste the .md section content here]
+[paste the .md section content here (give md file to AI)]
